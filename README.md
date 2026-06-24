@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Dina  👑🚀
 
-<!--
-**DinaAshraff9/DinaAshraff9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👩‍💻 About Me
+* 🎓 Computer Engineering Student at Al-Arish University.
+* ☁️ Cloud Infrastructure & DevOps Enthusiast.
+* 🌐 Passionate about Cisco Networking (Routing, Switching, & Enterprise Infrastructure).
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack & Skills
+* **Cloud Platforms:** AWS (EC2, Lambda, Serverless Architecture, CloudFormation), Microsoft Azure, IBM Cloud.
+* **Networking & Infrastructure:** Cisco CCNA (VLSM, Inter-VLAN Routing, OSPF, Switching, Routing & Wireless Essentials).
+* **DevOps & Software Architecture:** Docker Containerization, Microservices, Agile Methodologies.
+* **Security & Compliance:** Introduction to Cybersecurity, IT Security Consultant Track.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 Featured Projects
+* **NEXUS AI Platform:** A 100% Serverless GenAI Platform deployed on AWS utilizing Lambda Function URLs and OpenRouter APIs.
+* **Trading Floor Support Center Network:** Integrated enterprise network design for 600+ hosts with advanced VLSM subnetting and OSPF routing.
+* **Guess the Capital:** Containerized microservices web application deployed on IBM Cloud using Docker.
+
+---
+*“Automating infrastructure and deploying intelligent solutions, one Lambda function at a time.”* 💜
